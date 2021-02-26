@@ -1,2 +1,2 @@
 # study
-study web.study go
+study web.study go...
